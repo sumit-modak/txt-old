@@ -1,0 +1,45 @@
+---------------------------------------------------------------------------------------------------------hog_cycle
+hog_rider + musketeer + ice_golem + skeletons + ice_spirit + cannon + log + fireball
+hog_rider + firecracker + valkyrie + skeletons + ice_spirit + cannon + log + earthquake
+
+---------------------------------------------------------------------------------------------------------log_bait
+goblin_barrel + knight + princess + goblin_gang + ice_spirit + inferno_tower + log + rocket
+                valkyrie            guards                     tesla
+
+---------------------------------------------------------------------------------------------------------
+miner + skeleton_barrel + mega_knight + inferno_tower + goblin_gang + spear_goblins + bats + zap 
+
+---------------------------------------------------------------------------------------------------------bridge_spam
+battle_ram + pekka + electrowizard + magic_archer + bandit + royal_ghost + zap + fireball
+                                                             dark_prince         poison
+
+---------------------------------------------------------------------------------------------------------x_bow
+x_bow + knight + archers + skeletons + ice_spirit + tesla + log + fireball
+        ice_golem                      electro_spirit
+
+---------------------------------------------------------------------------------------------------------splashyard
+skeleton_king + graveyard + baby_dragon + tombstone + ice_wizard + barbarian_barrel + tornado + poison 
+
+---------------------------------------------------------------------------------------------------------miner_cycle
+miner + wall_breakers + magic_archer + knight + spear_goblins + bomb_tower + log + tornado 
+
+
+
+
+
+
+hog_cycle
+log_bait
+x_bow
+bridge_spam
+splashyard
+rg_cycle
+miner_cycle
+mortar_miner
+
+egiant_beatdown
+giant_beatdown
+egolem_beatdown
+golem_beatdown
+goblin_giant_beatdown
+lavahound_beatdown

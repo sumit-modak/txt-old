@@ -1,0 +1,23 @@
+.cache/
+.cargo/
+.config/
+.local/
+     - bin/
+     - script/
+     - share/
+	       - backgrounds/
+		   - fonts/
+		   - images/
+		   - screenshots/
+		   - Trash/
+     - src/
+.rustup/
+.ssh/
+alt/
+clone/
+computer/
+Downloads/
+main/
+passwd/
+priv/
+Videos/

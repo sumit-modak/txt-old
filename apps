@@ -1,0 +1,35 @@
+init_system 		systemd
+shell 				zsh
+
+text_editor			helix
+file_explorer		lf
+fuzzy_finder		fzf
+vm_manager			virt-manager
+
+web_browser			brave
+
+----------------------------------
+cd 
+----------------------------------
+exa					ls, tree
+
+----------------------------------
+[ *.pdf ]
+	gs, pdftoppm
+	
+[ *.odt | *.ods | *.odp| *.sxw ] 
+	odt2txt 
+	
+[ *.xls | *.xlsx ]
+	ssconvert
+
+[ *.doc | *.docx ]
+	catdoc
+	
+[ *.avi | *.mp4 | *.mkv ]
+	ffmpeg
+	
+[ *.ttf | *.otf | *.woff ]
+	
+[ *.txt | * ]
+	cat, bat, less, highlight

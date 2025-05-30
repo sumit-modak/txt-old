@@ -1,0 +1,110 @@
+twin prime
+prime
+
+
+* * * * * * * * * * * * * * * * 
+*                             * 
+*                             * 
+*                             * 
+*                             * 
+*                             * 
+*                             * 
+*                             * 
+*                             * 
+* * * * * * * * * * * * * * * * 
+*           *                             
+*             *                           
+*               *                         
+*                 *                       
+*                   *                     
+*                     *                   
+*                       *                 
+*                         *               
+*                           *             
+*                             *          
+
+
+unique---------------(check,to)
+string
+number
+no of digits
+no of chars
+----------------------------
+increasing
+decreasing
+zigzag
+-----------------------
+shulker box
+armor durability
+potion timers
+inventory
+
+shields
+wither effect
+carved pumpkin
+
+low fire
+light source
+-----------------
+armor stands
+item frame
+boat
+arrow
+
+banner
+bed
+bell
+chest
+conduit
+end crystal
+shield
+signs
+--------------------------
+multi variable calc		resource pack	
+series tests			command block	
+linear algebra			data packs		
+-------------------------------------
+CSE	
+SUMIT MODAK	
+123211003169	
+JIS/2021/0441
+-----------------------------------
+astronomy
+business
+computer science
+english
+geography
+maths
+biology
+chemistry
+physics
+relegious education
+
+-----------------------------------------------create that practice world
+-8 block boat jump
+-neo practice
+-flint and steel jump
+-chests
+
+-----------------------------------------------face
+aloevera + turmeric
+haldi chandan facewash
+green tea ice cubes
+
+2 tsp atta / rice flour + water -> scrub your face with half tomato
+2 tsp (multani mitti + gram flour + aloevera) + half tomato -> apply on face
+rinse with cold water
+
+-----------------------------------------------coc 
+hybrid = miner + hogs
+lalo = lava_hound + balloon
+gowich = golem + witch 
+dragbat = dragon + bats_spell
+blizzard = battle_blimp + super_wizard + invisibility_spell
+queen_charge = archer_queen + healer
+
+------------------------------------keyboard
+programmable non-programmable
+60% 80% 100%
+ortholinear ansi iso
+rgb no-rgb
