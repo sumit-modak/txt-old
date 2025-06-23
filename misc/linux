@@ -1,0 +1,7 @@
+remove hostmane and username from terminal emulator and move it to title bar
+tiling window manager but no spaces in between
+
+top left - activities icon, workspaces(running activities)
+top middle - minimize, maximize, close
+top right - date and time, log menu, settings, sound, network, cpu and memory usage, language
+window manager doesn't contains name of the window, minimize, maximize and close buttons 
